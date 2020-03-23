@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c383465-141c-42b9-bb1a-b7659ca80279" name="de.edunet.school" url="https://de.edunet.school">
+        <fileTransfer host="3.127.172.232" port="22" privateKey="C:\Users\Developer_7\Google Диск\Полтава\BBB\ssh\bbb-key1.pem" rootFolder="/var/www/de.edunet.school/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
