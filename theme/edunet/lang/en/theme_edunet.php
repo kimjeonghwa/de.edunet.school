@@ -278,5 +278,7 @@ $string['privacy:accessibilitystyles_sitecolorclass'] = 'The current preference 
 $string['privacy:themeEdunetsettings_fonttype'] = 'The current preference for the font type is: {$a}.';
 $string['privacy:themeEdunetsettings_enableaccessibilitytoolbar'] = 'The current preference for enable accessibility toolbar is to show it.';
 
-//Footer
-$string['contacts'] = 'Contacts';
+// Header
+$string['headertitle'] = 'Live tuition with real teachers';
+$string['headercontent'] = 'Edunet.SCHOOL is the joint learning and teaching platform for teachers and students of all school types and grades. Developed by experienced teachers from the Philippines. For live learning in online classrooms as well as for (online) live learning in schools.';
+
