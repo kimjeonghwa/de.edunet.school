@@ -228,3 +228,29 @@ $string['youtubedesc'] = 'Sie können hier die URL Ihrer YouTube-Seite angeben (
 $string['headertitle'] = 'Live-Unterricht mit echten Lehrkräften';
 $string['headercontent'] = 'Edunet.SCHOOL ist die gemeinsame Lern- und Unterrichtsplattform für Lehrkräfte und SchülerInnen aller Klassen und Schultypen. Entwickelt von erfahrenen FachlehrerInnen. Für Live-Unterricht im Online-Klassenzimmer genauso wie für (Online-)Präsenzlernen.';
 
+//Footer
+$string['footer_1'] = 'Verantwortlich';
+$string['footer_2'] = 'Verantwortlich für diesen Internetauftritt ist Ralf Bultschnieder, <a href="mailto:rb@jobnet.ag">rb@jobnet.ag</a>. Die Informationen auf diesen Seiten wurden mit größter Sorgfalt zusammengestellt, dennoch können uns Fehler unterlaufen sein. Wir freuen uns über jeden Hinweis, wenn wir etwas verbessern können.';
+$string['footer_3'] = 'Alle Angaben zu Produkten und Dienstleistungen sind erst dann rechtlich verbindlich, wenn sie Bestandteil eines schriftlichen Angebots oder Vertrags geworden sind. Änderungen vorbehalten, sämtliche Produkte und Dienstleistungen werden laufend weiterentwickelt.';
+$string['footer_4'] = 'Disclaimer';
+$string['footer_5'] = 'Um die Aktualität, Richtigkeit und Vollständigkeit der auf dieser Website bereitgestellten Informationen sind wir bemüht, können allerdings dafür keine Haftung übernehmen. Wir haften nicht für direkte oder indirekte Schäden, einschließlich entgangener Gewinne, die aufgrund von Informationen entstehen, die auf dieser Website bereitgehalten werden.';
+$string['footer_6'] = 'Gemäß § 36 Abs. 1 Verbraucherstreitbeilegungsgesetz (VSBG) möchten wir Sie darauf hinweisen, dass wir weder verpflichtet sind noch uns bereit erklärt haben, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.';
+$string['footer_7'] = 'Datenschutzerklärung - bitte hier anklicken';
+
+$string['footer_8'] = 'Impressum';
+$string['footer_9'] = 'Sitz der Gesellschaft:';
+$string['footer_10'] = 'Internet:';
+$string['footer_11'] = 'zentrale E-Mail:';
+$string['footer_12'] = 'Aufsichtsrat:';
+$string['footer_13'] = 'Vorsitzender';
+$string['footer_14'] = 'Stellvertreter';
+$string['footer_15'] = 'Vorstand:';
+$string['footer_16'] = 'Handelsregister:';
+$string['footer_17'] = 'Bankverbindung:';
+$string['footer_18'] = 'Finanzamt für Körperschaften IV Berlin:';
+$string['footer_19'] = 'Steuernummer';
+$string['footer_20'] = 'Umsatzsteuer-Identifikationsnummer';
+$string['footer_21'] = 'AZAV-Zulassung nach §2 der Rechtsverordnung zum SGB III (AZAV):';
+$string['footer_22'] = 'Zulassungsnummer: 535468 AZAV in den Standorten Berlin und Hamburg';
+$string['footer_23'] = 'Das Original-Zertifikat kann bei der fachkundigen Stelle';
+$string['footer_24'] = 'DQS heruntergeladen werden';

@@ -68,6 +68,10 @@ nav.navbar ul.navbar-nav li>a, nav.navbar ul.navbar-nav .nav-item>a {
     margin-left: 30px;
 }
 
-#page-site-index.notloggedin #page-header{
-	min-height: 640px;
+#top-footer h3 {
+    color: #455a64;
+}
+
+#sidepreopen-control{
+    z-index: 1;
 }

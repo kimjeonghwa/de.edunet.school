@@ -282,3 +282,29 @@ $string['privacy:themeEdunetsettings_enableaccessibilitytoolbar'] = 'The current
 $string['headertitle'] = 'Live tuition with real teachers';
 $string['headercontent'] = 'Edunet.SCHOOL is the joint learning and teaching platform for teachers and students of all school types and grades. Developed by experienced teachers from the Philippines. For live learning in online classrooms as well as for (online) live learning in schools.';
 
+//Footer
+$string['footer_1'] = 'Responsible person';
+$string['footer_2'] = 'The person responsible for this internet presence is Ralf Bultschnieder, <a href="mailto:rb@jobnet.ag">rb@jobnet.ag</a>. The information on these pages has been compiled with the greatest care, but there may have occurred mistakes. We are happy to receive any suggestions for improvement.';
+$string['footer_3'] = 'All data on products and services are legally binding only if they have become part of a written offer or contract. Since all products and services are continuously refined, other data on them are subject to change without notice.';
+$string['footer_4'] = 'Disclaimer';
+$string['footer_5'] = 'We make every effort to ensure that the information provided on this website is up-to-date, correct and complete, but we do not assume any liability for these data. We are not liable for direct or indirect damage, including lost profits, arising from the information available on this website.';
+$string['footer_6'] = 'In accordance with Section 36 (1) of the Consumer Dispute Settlement Act (Verbraucherstreitbeilegungsgesetz), we would like to point out that we are neither obliged nor have we agreed to participate in dispute resolution proceedings before a consumer arbitration board.';
+$string['footer_7'] = 'Privacy Policy - please click here';
+
+$string['footer_8'] = 'Imprint';
+$string['footer_9'] = 'Headquarters:';
+$string['footer_10'] = 'Website:';
+$string['footer_11'] = 'Central email address:';
+$string['footer_12'] = 'Supervisory board:';
+$string['footer_13'] = 'chairperson';
+$string['footer_14'] = 'deputy';
+$string['footer_15'] = 'Board of directors:';
+$string['footer_16'] = 'Commercial register:';
+$string['footer_17'] = 'Bank details:';
+$string['footer_18'] = 'Tax office for corporations IV Berlin:';
+$string['footer_19'] = 'Tax number';
+$string['footer_20'] = 'VAT Identification number';
+$string['footer_21'] = 'AZAV approval in accordance with Section 2 of the ordinance to the SGB III (Further Training Approval Ordinance, AZAV):';
+$string['footer_22'] = 'Approval number: 535468 AZAV in the locations Berlin and Hamburg';
+$string['footer_23'] = 'The original certificate can be downloaded at the';
+$string['footer_24'] = 'competent DQS site';
