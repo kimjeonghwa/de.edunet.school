@@ -7,9 +7,9 @@ $CFG = new stdClass();
 $CFG->dbtype    = 'mariadb';
 $CFG->dblibrary = 'native';
 $CFG->dbhost    = 'localhost';
-$CFG->dbname    = 'edunetbw';
-$CFG->dbuser    = 'edunetbw';
-$CFG->dbpass    = '3TcGSqXn14HUlAkz';
+$CFG->dbname    = 'edunet';
+$CFG->dbuser    = 'edunet';
+$CFG->dbpass    = 'edunet$753';
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
   'dbpersist' => 0,
@@ -18,8 +18,8 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_general_ci',
 );
 
-$CFG->wwwroot   = 'https://bw.edunet.school';
-$CFG->dataroot  = '/var/www/lands/moodledata_bw';
+$CFG->wwwroot   = 'https://de.edunet.school';
+$CFG->dataroot  = '/var/www/moodledata_de';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
